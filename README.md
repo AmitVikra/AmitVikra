@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Amit Vikram</h1>
-<h3 align="center">A passionate developer from India</h3>
 <h4 align="left">👀 I’m interested in Git Hub</h4>
 <h4 align="left">💞️ I’m looking to collaborate on Git Hub</h4>
 <h4 align="left">📫 How to reach me ... https://www.instagram.com/amitvikram10/ </h4>
